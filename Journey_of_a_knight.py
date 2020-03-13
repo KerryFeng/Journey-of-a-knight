@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[8]:
-
-
 from tkinter import *
 from tkinter.messagebox import showinfo
 
